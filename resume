@@ -1,0 +1,110 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Monika Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      width: 80%;
+      margin: 20px auto;
+      background: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+      color: #2c3e50;
+    }
+    header p {
+      margin: 5px 0;
+      font-size: 1em;
+      color: #7f8c8d;
+    }
+    section {
+      margin-bottom: 20px;
+    }
+    section h2 {
+      font-size: 1.5em;
+      color: #2980b9;
+      border-bottom: 2px solid #2980b9;
+      padding-bottom: 5px;
+      margin-bottom: 10px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      margin-bottom: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Monika P</h1>
+      <p>Email: monika@example.com | Phone: +91 98765 43210</p>
+      <p>Location: Chennai, India</p>
+    </header><section>
+  <h2>Objective</h2>
+  <p>To secure a responsible career opportunity where I can fully utilize my skills and knowledge for the growth of the organization while continuously learning.</p>
+</section>
+
+<section>
+  <h2>Education</h2>
+  <ul>
+    <li><strong>Bachelor of Computer Science</strong>, XYZ College, 2025</li>
+    <li><strong>Higher Secondary</strong>, ABC School, 2021</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML, CSS, JavaScript</li>
+    <li>Java, Python</li>
+    <li>Problem Solving</li>
+    <li>Communication Skills</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Projects</h2>
+  <ul>
+    <li><strong>Portfolio Website</strong> – Built using HTML, CSS, and JavaScript.</li>
+    <li><strong>Library Management System</strong> – Developed in Java with database integration.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Experience</h2>
+  <ul>
+    <li><strong>Intern, Web Development</strong> – ABC Tech Solutions, Summer 2024</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Languages</h2>
+  <ul>
+    <li>Tamil – Native</li>
+    <li>English – Fluent</li>
+    <li>Hindi – Intermediate</li>
+  </ul>
+</section>
+
+  </div>
+</body>
+</html>
